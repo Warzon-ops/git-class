@@ -1,0 +1,21 @@
+* ok now ,discuss all the git commands
+git init-- Initialize a local Git Repository
+git add/git add . -- Add one or more files to staging area
+git commit -m "message" -- Commit changes to head but not to the remote repo(store in local repo)
+git status-- Check the current repo and list the files you have changed
+git log --provides a list of all the commits made on your branch
+git branch -- display all your branch name
+git branch <name> -- create new branch
+git checkout <branch name> -- switch a branch into the active branch
+git merge--
+git rebase--
+git diff--
+* commands for remote Repository
+git push -u origin <branch name> -- push all the files and folder in the remote repo of your branch
+git remote add origin <server url> -- One time activity of one remote repostiory 
+git config -global user.name "name"-- configure the name of your remote repo
+git config -global user.email "email-id"-- configure the mail
+
+These commands are popularly used in git ...
+
+ok now explor something funny thing about git
