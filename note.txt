@@ -19,3 +19,18 @@ git config -global user.email "email-id"-- configure the mail
 These commands are popularly used in git ...
 
 ok now explor something funny thing about git
+
+now copy this url and paste it on your browser
+https://github.com/Warzon-ops/git-class
+
+ok any doubt up to now nothing , are u sure? yeah what you did now I practice it yesterday 
+, only add the files into the remote repo right na? yeah 
+ok r u understand this image 
+what is staging area?
+ now we have 2 files, now the files are modified and untracked stage means the files are not add yet, right yeah
+ ok when you add the file the files are ready to be commit but not commited, this situation files and folder are in staged area
+ after you commit the files and folder, it goes to local repository means(. git )
+ means new -item command(only used for windows powershell not for git) 
+ create files in the folder but not add it so we have to add them ok
+
+
