@@ -9,7 +9,7 @@ git branch <name> -- create new branch
 git checkout <branch name> -- switch a branch into the active branch
 git merge--
 git rebase--
-git diff--
+git diff--It will display all the works done in the branch with data 
 * commands for remote Repository
 git push -u origin <branch name> -- push all the files and folder in the remote repo of your branch
 git remote add origin <server url> -- One time activity of one remote repostiory 
@@ -40,9 +40,52 @@ scenario -1
 
 you are a game devloper..
 you have to write your own code for company project...
+(After this line we are created a new branch game-rs ,)
 In company policy ,they have a central repository(e.g git, git lab, svn etc)..
 also they have multiple branches for different work and different project 
 
-ok yeah
+can you please explain me a little in voice im a bit confuse if possible 
+no its not possible sorry ok ok
+If you r confusing then we can stop it here 
+yeah its confusing a little 
+actualy when you pull it you take it out from remote to local repo right?
 
-go to powershell
+ok see carefully
+when i pull the repository it upadte the local version of this repository from a remote
+
+means we have two branches ok master,and game-rs (forget other branch)
+some files are in master 
+ok
+ok
+then we create 2 files in game-rs (file1.txt ,file2.txt) ok
+ok
+then we want these files are need to add on our remote repostiory but
+ not in master branch
+ ok so we pull it and again after adding it to other brach(game-rs) we push it back
+ ok so when ever we have to create files to a branch of our own we pull it from remote repo and again push it back
+
+ see github doesnot know about your local repo and your working branch yeah
+
+now ur doubt is clear or something
+
+without performing pull , cant we simply create a branch 
+add the files and push it to remote repo
+
+
+is pulling necessary in this case
+ ofcourse it's necessary for now ,you have to aware of this ok
+the stuff is going to be complecated day by day
+hm i can feel that
+
+ok one last two thing for to day 
+ if i type git diff in my working directory in game-rs branch
+-- It will display all the works done in the branch with data
+
+ok clear yeah
+
+ok now one last command 
+we have two branch master and game-rs 
+and also we have  another branch main which not used yet 
+
+
+
