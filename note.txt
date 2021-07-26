@@ -87,5 +87,8 @@ ok now one last command
 we have two branch master and game-rs 
 and also we have  another branch main which not used yet 
 
-
+have u seen the difference yeah
+ok now
+any question?
+no
 
