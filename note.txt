@@ -33,4 +33,16 @@ what is staging area?
  means new -item command(only used for windows powershell not for git) 
  create files in the folder but not add it so we have to add them ok
 
+ok now you something know about git, right yup
 
+scenario -1
+-----------
+
+you are a game devloper..
+you have to write your own code for company project...
+In company policy ,they have a central repository(e.g git, git lab, svn etc)..
+also they have multiple branches for different work and different project 
+
+ok yeah
+
+go to powershell
